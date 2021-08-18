@@ -1,6 +1,6 @@
 
 <hr>
-<h1><p align= "center">PASSWORD-CREATOER V1.0</p></h1>
+<h1><p align= "center">PASSWORD-CREATOR V1.0</p></h1>
 <h4><p align = "center">Tool By Tehan Hewage <p><h4>
 <p align= "center">
 <br />
@@ -10,7 +10,7 @@
 <hr />
 <hr />
 <p align="center">
-<img src="https://github.com/Tehan-Hewage/Pass-Creator/blob/main/ss.png" alt="Tool Pic" width="220" height="320"/>
+<img src="https://github.com/Tehan-Hewage/Pass-Creator/blob/main/ss.png" alt="Tool Pic" width="220" height="370"/>
 </p>
 </div>
 <hr>
