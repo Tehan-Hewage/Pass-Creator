@@ -17,7 +17,7 @@
 
 ### ❏ Tested On Termux (Linux Environment)
 
-#### ❏CREATE POWERFUL PASSWORDS 🙂💔
+#### ❏ CREATE POWERFUL PASSWORDS 🙂💔
 
 <br>
 
