@@ -10,7 +10,7 @@
 <hr />
 <hr />
 <p align="center">
-<img src="https://github.com/Tehan-Hewage/Pass-Creator/blob/main/ss.png" alt="Tool Pic" width="220" height="220"/>
+<img src="https://github.com/Tehan-Hewage/Pass-Creator/blob/main/ss.png" alt="Tool Pic" width="220" height="320"/>
 </p>
 </div>
 <hr>
@@ -32,11 +32,6 @@ python Pass-creator.py
 cat name.txt to open the txt file
 $ ENJOY !!
 ```
-
-## Instructions
-
-* AFTER ATTACKED ,HE WILL BE ABLE TO FIX HALF FROM HIS DAMAGE .
-* ONLY I CAN RECOVER FULL DAMAGE...😈⚔
 
 
 
