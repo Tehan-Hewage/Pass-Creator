@@ -4,7 +4,7 @@
 <h4><p align = "center">Tool By Tehan Hewage <p><h4>
 <p align= "center">
 <br />
-<img src="https://www.udrop.com/cache/plugins/filepreviewer/394294/d3fff2634440aa273f9c15de7f5f9e10fc41e397065189cd26b6def634fee1ad/1100x800_cropped.jpg",width="80", height="80",alt="john-kener"/>
+<img src="https://www.udrop.com/cache/plugins/filepreviewer/394294/d3fff2634440aa273f9c15de7f5f9e10fc41e397065189cd26b6def634fee1ad/1100x800_cropped.jpg",width="120", height="120",alt="Tehan-Hewage"/>
 </p>
 <br />
 <hr />
