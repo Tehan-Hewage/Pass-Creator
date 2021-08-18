@@ -25,11 +25,17 @@
 
 ```
 pkg update && pkg upgrade
+  
 pkg install python -y
-git clone https://github.com/John-kener/Junk-Bomber
+  
+git clone https://github.com/Tehan-Hewage/Pass-Creator
+  
 cd Password-Creator
+  
 python Pass-creator.py
+  
 cat name.txt to open the txt file
+  
 $ ENJOY !!
 ```
 
